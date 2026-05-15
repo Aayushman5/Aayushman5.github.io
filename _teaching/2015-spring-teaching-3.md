@@ -1,5 +1,5 @@
 ---
-title: "Scientific Computing"
+title: "Scientific Computing (MA 322)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-3
