@@ -1,11 +1,11 @@
 ---
 title: "An efficient operator splitting weak Galerkin method for singularly perturbed 2D parabolic PDEs"
 collection: publications
-category: publications
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-01-01
-journal: 'Numerical Algorithms'
+venue: 'Numerical Algorithms'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
 
