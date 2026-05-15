@@ -5,9 +5,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "A computational study of neural variational methods for singularly perturbed reaction-diffusion problems<br />FernUniversit\u00e4t in Hagen, Campus Berlin.; Berlin, Germany",
+    52.5173885,
+    13.3951309
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
