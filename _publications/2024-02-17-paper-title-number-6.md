@@ -2,7 +2,7 @@
 title: "Application of PINN to Obtain Solution of Boundary Layer Problems Arising in Fluid Dynamics"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-5
+permalink: /publication/2024-02-17-paper-title-number-6
 date: 2026-04-01
 venue: 'Mathematical Foundations of Computing'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
