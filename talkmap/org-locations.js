@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Efficient weak Galerkin method for two-parameter singularly perturbed parabolic problems<br />Department of Mathematics, NIT Rourkela; Rourkela, Odisha, India",
-    22.2309255,
-    84.8678705
+    "Convergence of a weak Galerkin method for reaction-diffusion singular perturbation problems in 2D<br />University of Colombo; Colombo, Sri Lanka",
+    6.9388614,
+    79.8542005
   ],
   [
     "A computational study of neural variational methods for singularly perturbed reaction-diffusion problems<br />FernUniversit\u00e4t in Hagen, Campus Berlin.; Berlin, Germany",
@@ -10,13 +10,13 @@ var addressPoints = [
     13.3951309
   ],
   [
-    "Convergence of a weak Galerkin method for reaction-diffusion singular perturbation problems in 2D<br />University of Colombo; Colombo, Sri Lanka",
-    6.9388614,
-    79.8542005
+    "A Space Splitting weak Galerkin Finite Element Method (WG-FEM) for Solving Two-parameter Singularly Perturbed Parabolic PDEs in 2D<br />Department of Mathematical Sciences, IIT (BHU) Varanasi; Varanasi, Uttar Pradesh, India",
+    25.3356491,
+    83.0076292
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Efficient weak Galerkin method for two-parameter singularly perturbed parabolic problems<br />Department of Mathematics, NIT Rourkela; Rourkela, Odisha, India",
+    22.2309255,
+    84.8678705
   ]
 ];
