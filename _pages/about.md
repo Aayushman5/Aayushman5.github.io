@@ -13,13 +13,15 @@ redirect_from:
 
 - पंडित कवि पृथ्वीनाथ शर्मा "मधुप"
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ #You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 About Me
 ======
 I am Aayushman Raina, a Postdoctoral Fellow in the Department of Mathematics and Statistics at the University of Cyprus, working with Prof. Christos Xenophontos.
 I completed my PhD at the Department of Mathematics, IIT Guwahati, under the guidance of Prof. Natesan Srinivasan. 
+
 My doctoral research focused on the numerical solution of singularly perturbed differential equations using nonconforming finite element methods such as Weak Galerkin method. Also explored solving singular perturbation problems using Physics-Informed Neural Networks (PINNs).
+
 My research continues to focus on developing efficient numerical and machine learning approaches for singularly perturbed differential equations.
 
 Getting started
