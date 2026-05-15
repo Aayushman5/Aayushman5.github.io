@@ -3,7 +3,6 @@ title: "An efficient operator splitting weak Galerkin method for singularly pert
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-01-01
 venue: 'Numerical Algorithms'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
