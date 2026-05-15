@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Linear Algebra and Ordinary Differential Equations (MA 102)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Mathematics, IIT Guwahati"
+date: 2023-03-01
+location: "Guwahati, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant
 
 Heading 1
 ======
