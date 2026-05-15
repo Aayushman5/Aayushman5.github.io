@@ -1,5 +1,5 @@
 ---
-title: "A Weak Galerkin finite element method for fourth order parabolic singularly perturbed problems on layer adapted Shishkin mesh"
+title: "A weak Galerkin finite element method for fourth order parabolic singularly perturbed problems on layer adapted Shishkin mesh"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
