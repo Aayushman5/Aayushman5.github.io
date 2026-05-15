@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Convergence of a weak Galerkin method for reaction-diffusion singular perturbation problems in 2D<br />University of Colombo; Colombo, Sri Lanka",
+    6.9388614,
+    79.8542005
   ],
   [
     "A computational study of neural variational methods for singularly perturbed reaction-diffusion problems<br />FernUniversit\u00e4t in Hagen, Campus Berlin.; Berlin, Germany",
