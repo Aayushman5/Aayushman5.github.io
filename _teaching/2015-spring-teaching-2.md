@@ -1,5 +1,5 @@
 ---
-title: "Real Analysis and Multivariable Calculus"
+title: "Real Analysis and Multivariable Calculus (MA 101)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
