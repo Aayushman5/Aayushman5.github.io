@@ -1,5 +1,5 @@
 ---
-title: "Anisotropic Error Analysis of Weak Galerkin finite element method for Singularly Perturbed Biharmonic Problems"
+title: "Anisotropic error analysis of weak Galerkin finite element method for singularly perturbed biharmonic problems"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
