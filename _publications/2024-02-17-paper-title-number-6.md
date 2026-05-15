@@ -1,10 +1,10 @@
 ---
-title: "A weak Galerkin finite element method for singularly perturbed 2D elliptic boundary-value problems of reaction-diffusion type with exponentially graded mesh"
+title: "Application of PINN to Obtain Solution of Boundary Layer Problems Arising in Fluid Dynamics"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-5
-date: 2026-02-01
-venue: 'International Journal of Computer Mathematics'
+date: 2026-04-01
+venue: 'Mathematical Foundations of Computing'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
 
