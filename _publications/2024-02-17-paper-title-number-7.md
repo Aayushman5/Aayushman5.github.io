@@ -1,10 +1,10 @@
 ---
-title: "Application of PINN to Obtain Solution of Boundary Layer Problems Arising in Fluid Dynamics"
+title: "A Parameter-Driven Physics-Informed Neural Network Framework for Solving Two-Parameter Singular Perturbation Problems Involving Boundary Layers"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-7
 date: 2026-04-01
-venue: 'Mathematical Foundations of Computing'
+venue: 'Advances in Computational Science and Engineering'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
 
