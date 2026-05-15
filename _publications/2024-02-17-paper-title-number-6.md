@@ -1,5 +1,5 @@
 ---
-title: "Application of PINN to Obtain Solution of Boundary Layer Problems Arising in Fluid Dynamics"
+title: "Application of PINN to obtain solution of boundary layer problems arising in fluid dynamics"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-6
