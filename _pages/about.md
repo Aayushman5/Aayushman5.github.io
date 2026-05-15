@@ -10,6 +10,7 @@ redirect_from:
 "चाह रहे यदि सुखमय जीवन
 
 स्मरो रामचरण अति पावन"
+
                      - पंडित कवि पृथ्वीनाथ शर्मा "मधुप"
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
