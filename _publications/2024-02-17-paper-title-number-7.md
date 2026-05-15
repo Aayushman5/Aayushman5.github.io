@@ -1,5 +1,5 @@
 ---
-title: "A Parameter-Driven Physics-Informed Neural Network Framework for Solving Two-Parameter Singular Perturbation Problems Involving Boundary Layers"
+title: "A parameter-driven Physics-informed neural network framework for solving two-parameter singular perturbation problems involving boundary layers"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-7
