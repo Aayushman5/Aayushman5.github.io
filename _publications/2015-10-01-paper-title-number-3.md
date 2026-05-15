@@ -1,5 +1,5 @@
 ---
-title: "A Novel ADI-Weak Galerkin Method for Singularly Perturbed Two-Parameter 2D Parabolic PDEs"
+title: "A novel ADI-Weak Galerkin method for singularly perturbed two-parameter 2D parabolic PDEs"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
