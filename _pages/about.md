@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Welcome to my webpage (मेरे  वेब पृष्ठ पर आपका स्वागत है)"
 author_profile: true
 redirect_from: 
   - /about/
