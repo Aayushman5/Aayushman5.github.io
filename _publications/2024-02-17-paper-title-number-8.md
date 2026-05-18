@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-8
 date: 2026-03-30
 venue: 'Mathematical Methods in the Applied Sciences'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
 Cancer and tumor growth are complex biological processes that can be modeled using systems of ordinary differential
 equations (ODEs) and partial differential equations (PDEs). These models capture the dynamics of tumor progres-
