@@ -8,5 +8,4 @@ venue: 'Numerical Methods for Partial Differential Equations'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this article, we propose an Alternating Direction Implicit (ADI) type operator splitting weak Galerkin finite element method (WG‐FEM) for solving a parabolic singularly perturbed problem with two‐parameters in 2D over a layer‐adapted mesh. The suggested operator splitting approach divides the original model problem into two subproblems each in 1D, then solving each subproblem using WG‐FEM in spatial direction eventually reduces the computational difficulty and high storage requirements. Backward–Euler time discretization has been taken over a uniform mesh. Stability and convergence results have been proved for the fully‐discrete scheme. Numerical examples are presented corroborating in practice our theoretical findings.
