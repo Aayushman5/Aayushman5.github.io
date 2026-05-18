@@ -13,6 +13,8 @@ redirect_from:
 
 - पंडित कवि पृथ्वीनाथ शर्मा "मधुप"
 
+![Editing a Markdown file for a talk](/images/dady.jpg)
+
 
 About Me
 ======
