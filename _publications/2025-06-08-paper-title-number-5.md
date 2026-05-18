@@ -8,4 +8,4 @@ venue: 'International Journal of Computer Mathematics'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected. #category: conferences
+This article introduces a weak Galerkin finite element method (WG-FEM) to address reaction-diffusion problems in two-dimensions with singular perturbations. To account for boundary layers near the domain edges, we use an exponentially graded mesh (eXp) for discretization. Error estimates in the energy norm are established, and the uniform convergence of the proposed method is proven. Numerical results validate the theoretical analysis.
