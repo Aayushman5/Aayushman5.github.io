@@ -1,6 +1,6 @@
 ---
 title: "कश्मीरियत संस्कृति के ताने बाने"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/dady.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/KSKTB.jpg'>"
 collection: portfolio
 ---
 
