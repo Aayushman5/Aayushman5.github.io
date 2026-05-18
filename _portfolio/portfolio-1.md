@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "कश्मीरियत संस्कृति के ताने बाने"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/dady.jpg'>"
 collection: portfolio
 ---
 
