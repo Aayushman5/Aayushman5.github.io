@@ -9,4 +9,4 @@ slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we propose a weak Galerkin finite element approximation for a class of fourth-order singularly perturbed parabolic problems. The problem exhibits boundary layers and so we have considered layer adapted triangulations, in particular Shishkin triangular mesh in the spatial domain. For temporal discretization, we utilize the Crank-Nicolson scheme on a uniform mesh. Stability and error estimates along with the uniform convergence of the method has been proved. Numerical examples are included which verifies our analysis.
