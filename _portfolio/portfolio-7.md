@@ -1,6 +1,6 @@
 ---
 title: "खोया चेहरा"
-excerpt: "Khoya Chehra Prithvi Nath Madhup <br/><a href='https://archive.org/details/rAhx_khoya-chehra-prithvi-nath-madhup/mode/2up' target='_blank'><img src='/images/KC.jpg'>"
+excerpt: "Khoya Chehra Prithvi Nath Madhup <br/><a href='https://archive.org/details/rAhx_khoya-chehra-prithvi-nath-madhup/mode/2up' target='_blank'><img src='/images/KC.jpg' style='width:300px; height:auto;'>"
 collection: portfolio
 ---
 
