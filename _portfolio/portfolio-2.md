@@ -1,6 +1,6 @@
 ---
 title: "मोहताज नहीं नाम की व्यथा"
-excerpt: "Mohtaj Nahin Naam Ki Vyatha Prithvi Nath Madhup <br/><a href='https://archive.org/details/mohtaj-nahin-naam-ki-vyatha-prithvi-nath-madhup' target='_blank'><img src='/images/MNNKV.jpg'>"
+excerpt: "Mohtaj Nahin Naam Ki Vyatha Prithvi Nath Madhup <br/><a href='https://archive.org/details/mohtaj-nahin-naam-ki-vyatha-prithvi-nath-madhup' target='_blank'><img src='/images/MNNKV.jpg' style='width:600px; height:auto;'>"
 collection: portfolio
 ---
 
